@@ -117,7 +117,7 @@ function getDocHeight() {
     return Math.max(D.body.scrollHeight, D.documentElement.scrollHeight, D.body.offsetHeight, D.documentElement.offsetHeight, D.body.clientHeight, D.documentElement.clientHeight);
 }
 function fx() {
-    window.location.href = "mailto:KunalVerma94@yahoo.com";
+    window.location.href = "mailto:kunalvermadev@yahoo.com";
 }
 function woop() {
     if (Math.trunc($(window).scrollTop() + $(window).height()) == getDocHeight() || Math.trunc($(window).scrollTop() + $(window).height()) + 1 == getDocHeight() || Math.trunc($(window).scrollTop() + $(window).height()) - 1 == getDocHeight()) {
